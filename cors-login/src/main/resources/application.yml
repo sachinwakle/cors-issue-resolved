@@ -1,0 +1,8 @@
+spring:
+  security:
+    user:
+      name: foo
+      password: bar
+      
+server:
+  port: 9001
